@@ -270,6 +270,53 @@ Suggest an online business idea for students interested in AI, freelancing, or d
 Can be used for generating student-focused business ideas.
 
 
+# Prompt 13
+
+## Title
+
+Customer Support Greeting
+
+## Prompt Text
+
+Write a chatbot greeting message for customer support.
+
+## Expected Output
+
+A polite and friendly chatbot greeting.
+
+## Improved Version
+
+Write a professional and friendly chatbot greeting message for a technology company.
+
+## Explanation
+
+Useful for creating customer support chatbot responses.
+
+
+# Prompt 14
+
+## Title
+
+Order Inquiry Response
+
+## Prompt Text
+
+Write a chatbot response for order status inquiries.
+
+## Expected Output
+
+A helpful chatbot response for customers asking about orders.
+
+## Improved Version
+
+Generate a polite chatbot response for handling customer order status questions professionally.
+
+## Explanation
+
+This prompt helps businesses improve automated customer support.
+
+
+
 
 
 
