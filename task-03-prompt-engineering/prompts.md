@@ -201,6 +201,77 @@ Write a respectful and professional internship inquiry email for an AI and softw
 This prompt helps students create formal inquiry emails.
 
 
+# Prompt 10
+
+## Title
+
+AI Startup Idea
+
+## Prompt Text
+
+Suggest a business idea related to Artificial Intelligence.
+
+## Expected Output
+
+An innovative AI startup idea with basic details.
+
+## Improved Version
+
+Suggest a modern AI startup idea that solves real-world business problems.
+
+## Explanation
+
+Useful for generating AI-based startup ideas.
+
+
+# Prompt 11
+
+## Title
+
+Small Business Technology Idea
+
+## Prompt Text
+
+Suggest a technology-based small business idea.
+
+## Expected Output
+
+A practical small business idea using technology.
+
+## Improved Version
+
+Generate a profitable small business idea using AI or modern technology solutions.
+
+## Explanation
+
+This prompt helps generate technology business ideas.
+
+
+# Prompt 12
+
+## Title
+
+Online Business Idea
+
+## Prompt Text
+
+Suggest an online business idea for students.
+
+## Expected Output
+
+A simple online business idea suitable for students.
+
+## Improved Version
+
+Suggest an online business idea for students interested in AI, freelancing, or digital services.
+
+## Explanation
+
+Can be used for generating student-focused business ideas.
+
+
+
+
 
 
 
