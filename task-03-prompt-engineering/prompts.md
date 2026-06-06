@@ -319,24 +319,19 @@ This prompt helps businesses improve automated customer support.
 # Prompt 15
 
 ## Title
-
-YouTube Video Description
+Twitter/X Promotional Post
 
 ## Prompt Text
-
-Write a YouTube video description for an AI tutorial.
+Write a promotional Twitter/X post for an AI company.
 
 ## Expected Output
-
-A professional YouTube description.
+A short and engaging promotional tweet.
 
 ## Improved Version
-
-Write an engaging YouTube video description for an AI learning tutorial.
+Write a modern and engaging Twitter/X promotional post for an AI solutions company.
 
 ## Explanation
-
-Useful for video content creation.
+Useful for social media marketing and brand promotion.
 
 
 # Prompt 16
@@ -365,24 +360,19 @@ Helps businesses create support content.
 # Prompt 17
 
 ## Title
-
-Marketing Tagline
+TikTok Caption for Tech Content
 
 ## Prompt Text
-
-Create a tagline for an AI company.
+Write a TikTok caption for AI technology content.
 
 ## Expected Output
-
-A short and creative tagline.
+A short and attractive TikTok caption.
 
 ## Improved Version
-
-Generate a modern and memorable tagline for an AI technology startup.
+Generate a creative TikTok caption for short AI and technology videos.
 
 ## Explanation
-
-Useful for branding and marketing.
+Useful for creating engaging short-form social media content.
 
 
 # Prompt 18
