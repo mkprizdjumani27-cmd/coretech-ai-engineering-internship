@@ -316,6 +316,145 @@ Generate a polite chatbot response for handling customer order status questions 
 This prompt helps businesses improve automated customer support.
 
 
+# Prompt 15
+
+## Title
+
+YouTube Video Description
+
+## Prompt Text
+
+Write a YouTube video description for an AI tutorial.
+
+## Expected Output
+
+A professional YouTube description.
+
+## Improved Version
+
+Write an engaging YouTube video description for an AI learning tutorial.
+
+## Explanation
+
+Useful for video content creation.
+
+
+# Prompt 16
+
+## Title
+
+Website FAQ Content
+
+## Prompt Text
+
+Write FAQs for a software company website.
+
+## Expected Output
+
+Professional FAQ questions and answers.
+
+## Improved Version
+
+Generate clear and professional FAQ content for an AI services company.
+
+## Explanation
+
+Helps businesses create support content.
+
+
+# Prompt 17
+
+## Title
+
+Marketing Tagline
+
+## Prompt Text
+
+Create a tagline for an AI company.
+
+## Expected Output
+
+A short and creative tagline.
+
+## Improved Version
+
+Generate a modern and memorable tagline for an AI technology startup.
+
+## Explanation
+
+Useful for branding and marketing.
+
+
+# Prompt 18
+
+## Title
+
+Client Thank You Message
+
+## Prompt Text
+
+Write a thank you message for clients.
+
+## Expected Output
+
+A polite client thank you message.
+
+## Improved Version
+
+Write a professional thank you message for clients after project completion.
+
+## Explanation
+
+Useful for professional communication.
+
+
+# Prompt 19
+
+## Title
+
+Freelance Service Description
+
+## Prompt Text
+
+Write a freelance profile description for a web developer.
+
+## Expected Output
+
+A professional freelance introduction.
+
+## Improved Version
+
+Write an engaging freelance profile description for a web developer and AI enthusiast.
+
+## Explanation
+
+Useful for freelancing platforms.
+
+
+# Prompt 20
+
+## Title
+
+AI Course Promotion
+
+## Prompt Text
+
+Write promotional content for an AI course.
+
+## Expected Output
+
+A short promotional paragraph.
+
+## Improved Version
+
+Write engaging promotional content for an online AI learning course for beginners.
+
+## Explanation
+
+Useful for educational marketing.
+
+
+
 
 
 
