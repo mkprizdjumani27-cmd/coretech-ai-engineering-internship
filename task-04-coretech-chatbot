@@ -1,0 +1,40 @@
+# Task 04 - CoreTech FAQ Dataset and Rule-Based Chatbot
+
+## Overview
+
+This project contains a FAQ dataset and a rule-based chatbot developed for CoreTech.
+
+The chatbot reads FAQ data from a CSV file, matches user questions using keywords, and returns relevant responses.
+
+## Features
+
+- FAQ dataset with 25+ questions and answers
+- Keyword-based question matching
+- User input handling
+- Unknown question handling
+- Continuous conversation support
+- Exit command support
+
+## Files
+
+### coretech_faq.csv
+Contains frequently asked questions and answers related to CoreTech services.
+
+### chatbot.py
+Python chatbot that reads the FAQ dataset and responds to user queries.
+
+## Technologies Used
+
+- Python
+- Pandas
+- CSV Dataset
+
+## Example Queries
+
+- ai chatbot
+- automation
+- web development
+- mobile app
+- cloud solutions
+
+Type `exit` to close the chatbot.
