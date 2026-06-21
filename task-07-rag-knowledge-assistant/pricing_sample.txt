@@ -1,0 +1,13 @@
+CoreTech Pricing Sample
+
+Basic Website Package
+Price: 500 USD
+
+Business Website Package
+Price: 1000 USD
+
+AI Chatbot Package
+Price: 1500 USD
+
+Custom Software Package
+Price depends on project requirements and complexity.

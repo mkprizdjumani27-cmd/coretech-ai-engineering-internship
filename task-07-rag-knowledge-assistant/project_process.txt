@@ -1,0 +1,11 @@
+CoreTech Project Process
+
+1. Requirement Gathering
+2. Project Analysis
+3. Solution Design
+4. Development
+5. Testing
+6. Deployment
+7. Maintenance and Support
+
+Every project follows a structured process to ensure quality and client satisfaction.
