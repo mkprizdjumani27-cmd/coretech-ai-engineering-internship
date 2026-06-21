@@ -68,9 +68,11 @@ Predicted Category: Web Development
 
 ### Model Results
 
-![Model Results](c:\Users\Dell Latitude E5490\OneDrive - MUET\Pictures\Camera Roll\models.result.png)
+![Model Results](<img width="832" height="545" alt="models result" src="https://github.com/user-attachments/assets/3c35d8a3-f563-4024-8dd4-ad537ad45e9a" />)
+
 
 ### Prediction Result
 
-![Prediction Result](c:\Users\Dell Latitude E5490\OneDrive - MUET\Pictures\Camera Roll\prediction-result-2.png)
-(c:\Users\Dell Latitude E5490\OneDrive - MUET\Pictures\Camera Roll\prediction-result.png)
+![Prediction Result](<img width="904" height="148" alt="prediction-result" src="https://github.com/user-attachments/assets/da7d9e1b-632c-44e4-9fde-dd8af2c88fc1" />)
+(<img width="902" height="141" alt="prediction-result-2" src="https://github.com/user-attachments/assets/82e94c30-78ec-4ecb-93ef-8fe082a22984" />)
+
