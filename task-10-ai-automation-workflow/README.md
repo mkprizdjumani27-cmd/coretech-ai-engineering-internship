@@ -79,8 +79,9 @@ processed_inquiries.csv
 
 ### Automation Output
 
-![automation-output](c:\Users\Dell Latitude E5490\OneDrive - MUET\Pictures\Screenshots\Screenshot 2026-06-23 004653.png)
+![automation-output](<img width="901" height="714" alt="Screenshot 2026-06-23 004653" src="https://github.com/user-attachments/assets/c3c62b24-b6a8-463d-a796-d1ddfd283d14" />)
+
 
 ### Processed Results CSV
 
-![processed-results-csv-output](c:\Users\Dell Latitude E5490\OneDrive - MUET\Pictures\Screenshots\Screenshot 2026-06-23 004816.png)
+![processed-results-csv-output](<img width="943" height="992" alt="Screenshot 2026-06-23 004816" src="https://github.com/user-attachments/assets/b52f001d-cc5f-4b7d-aa7a-aa4b82432b27" />)
