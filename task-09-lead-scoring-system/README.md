@@ -60,7 +60,8 @@ python lead_scoring.py
 
 ### Lead Scoring Output
 
-![lead-scoring-output](c:\Users\Dell Latitude E5490\OneDrive - MUET\Pictures\Camera Roll\lead-scoring-output.png)
+![lead-scoring-output]<img width="957" height="863" alt="lead-scoring-output" src="https://github.com/user-attachments/assets/504c6144-14ea-45a0-8fd9-7a40ee8613ca" />
+
 
 ### High Priority Lead
-![high-priority-lead](c:\Users\Dell Latitude E5490\OneDrive - MUET\Pictures\Camera Roll\high-priority-lead.png)
+![high-priority-lead]<img width="906" height="704" alt="Screenshot 2026-06-23 002359" src="https://github.com/user-attachments/assets/56c753ec-fc28-426e-a92b-0032b0215d7b" />
