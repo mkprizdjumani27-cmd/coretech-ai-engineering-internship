@@ -76,7 +76,7 @@ streamlit run app.py
 ## Example Inquiry
 
 ```text
-My name is Ahmed Khan. My email is ahmed@gmail.com.
+My name is Muhammad Khan. My email is muhammad@gmail.com.
 I need an e-commerce website for my clothing business.
 My budget is high and I need it immediately.
 ```
