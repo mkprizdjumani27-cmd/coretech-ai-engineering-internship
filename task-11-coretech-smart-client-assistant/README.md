@@ -159,17 +159,21 @@ Priority: High
 
 ### Application Home Screen
 
-![home-screen]((c:\Users\Dell Latitude E5490\OneDrive - MUET\Desktop\task-09-lead-scoring-system\home-screen.png))
+![home-screen]<img width="1895" height="848" alt="home-screen" src="https://github.com/user-attachments/assets/5aee24b7-ff13-4a3d-9602-1b8143a6ddd6" />
+
 
 ### Sample Output (1)
 
-![sample-output(1)]((sc:\Users\Dell Latitude E5490\OneDrive - MUET\Desktop\task-09-lead-scoring-system\sample-output (1).png))
+![sample-output(1)]<img width="1899" height="844" alt="sample-output (1)" src="https://github.com/user-attachments/assets/ebe7dc8c-4bda-45ad-a45c-9223a5715b14" />
+
 
 ### Sample Output (2)
 
-![sample-output(2)]((c:\Users\Dell Latitude E5490\OneDrive - MUET\Desktop\task-09-lead-scoring-system\sample-output (2).png))
+![sample-output(2)]<img width="1869" height="785" alt="sample-output (2)" src="https://github.com/user-attachments/assets/be7811fb-c0cf-4fa1-bb1d-0430d38ed1c9" />
+
 
 ### Processed Data
 
-![processed-data]((c:\Users\Dell Latitude E5490\OneDrive - MUET\Desktop\task-09-lead-scoring-system\processed-data.png))
+![processed-data]<img width="1400" height="892" alt="processed-data" src="https://github.com/user-attachments/assets/7569a829-cbc4-4f6d-b7f9-339e268472ec" />
+
 
