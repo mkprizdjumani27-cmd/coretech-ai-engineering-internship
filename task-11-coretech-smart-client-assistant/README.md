@@ -47,6 +47,43 @@ This project automates that workflow for CoreTech Innovation.
 - Cosine Similarity
 - Regular Expressions
 
+## AI Workflow
+
+The application follows the workflow below:
+
+1. The user enters a client inquiry.
+2. The system preprocesses the input text.
+3. TF-IDF Vectorizer converts the text into numerical vectors.
+4. Cosine Similarity searches the knowledge base and finds the most relevant information.
+5. Rule-based logic extracts:
+   - Client Name
+   - Email Address
+   - Required Service
+   - Budget
+   - Timeline
+   - Urgency
+6. A lead score (0–100) is calculated.
+7. The system assigns High, Medium, or Low priority.
+8. A professional business reply is generated.
+9. The processed inquiry is stored in processed_inquiries.csv.
+
+## Dataset
+
+The project uses a custom dataset named:
+
+coretech_knowledge_base.csv
+
+The dataset contains:
+
+- Company Profile
+- Services
+- FAQs
+- Pricing Information
+- Project Workflow
+- Contact Details
+
+This dataset is used for semantic search using TF-IDF and Cosine Similarity.
+
 ## Project Files
 
 ```text
@@ -58,6 +95,35 @@ task-11-coretech-smart-client-assistant
 ├── README.md
 └── screenshots
 ```
+## Future Improvements
+
+- Integrate Large Language Models (LLMs)
+- Add voice-based client interaction
+- Store data in a SQL database
+- Deploy the application on Streamlit Cloud
+- Add user authentication
+- Build an admin dashboard
+
+## Learning Outcomes
+
+Through this project, I learned:
+
+- Building Streamlit web applications
+- Semantic search using TF-IDF
+- Cosine Similarity
+- Rule-based AI systems
+- Lead scoring techniques
+- Data preprocessing
+- CSV data storage
+- AI workflow design
+
+## Author
+
+MUHAMMAD JUMANI
+
+Final AI Engineering Internship Project
+
+CoreTech Innovation
 
 ## How to Run
 
@@ -93,12 +159,17 @@ Priority: High
 
 ### Application Home Screen
 
-![195200](![alt text](<Screenshot 2026-06-24 195200.png>))
+![home-screen]((c:\Users\Dell Latitude E5490\OneDrive - MUET\Desktop\task-09-lead-scoring-system\home-screen.png))
 
-### High Priority Lead Analysis
+### Sample Output (1)
 
-![195000](![alt text](<Screenshot 2026-06-24 195000-2.png>))
+![sample-output(1)]((sc:\Users\Dell Latitude E5490\OneDrive - MUET\Desktop\task-09-lead-scoring-system\sample-output (1).png))
 
-### Saved Processed Inquiries
+### Sample Output (2)
 
-![195319](![alt text](<Screenshot 2026-06-24 195319.png>))
+![sample-output(2)]((c:\Users\Dell Latitude E5490\OneDrive - MUET\Desktop\task-09-lead-scoring-system\sample-output (2).png))
+
+### Processed Data
+
+![processed-data]((c:\Users\Dell Latitude E5490\OneDrive - MUET\Desktop\task-09-lead-scoring-system\processed-data.png))
+
