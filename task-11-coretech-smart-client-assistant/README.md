@@ -176,4 +176,18 @@ Priority: High
 
 ![processed-data]<img width="1400" height="892" alt="processed-data" src="https://github.com/user-attachments/assets/7569a829-cbc4-4f6d-b7f9-339e268472ec" />
 
+## 🎥 Project Demo Video
 
+This video demonstrates:
+
+- Project overview
+- Streamlit application
+- AI workflow
+- Lead scoring
+- Service recommendation
+- CSV storage
+- Final output
+
+Video Link:
+
+https://drive.google.com/file/d/1E4X3MN98P4F4qqRO5tHuF5sDootAlPmj/view?usp=drivesdk
